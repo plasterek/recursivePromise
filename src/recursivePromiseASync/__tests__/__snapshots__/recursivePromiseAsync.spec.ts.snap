@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecursivePromise function When array of promises is given It return Promise with array of resolved and rejected promises results 1`] = `
+[
+  "resolved1",
+  "resolved2",
+  "resolved3",
+  "resolved4",
+  "rejected5",
+  "resolved6",
+  "resolved7",
+]
+`;
+
+exports[`RecursivePromise function When given array of promises is empty It returns Promise with with empty array 1`] = `
+[
+  [],
+]
+`;
