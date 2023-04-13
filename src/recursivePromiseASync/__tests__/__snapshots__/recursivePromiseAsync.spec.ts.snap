@@ -11,9 +11,3 @@ exports[`RecursivePromise function When array of promises is given It return Pro
   "resolved7",
 ]
 `;
-
-exports[`RecursivePromise function When given array of promises is empty It returns Promise with with empty array 1`] = `
-[
-  [],
-]
-`;
